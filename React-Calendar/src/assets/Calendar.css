@@ -1,0 +1,32 @@
+.calendar {
+display: flex;
+flex-direction: column;
+align-items: center;
+
+
+}
+
+.week {
+    display: flex;
+
+
+}
+
+.day {
+    text-align: center;
+    background-color: coral;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    width: 100px;
+
+}
+
+.day-name {
+font-weight: bold;
+color: white;
+}
+
+.day-date {
+font-weight: bold;
+}
