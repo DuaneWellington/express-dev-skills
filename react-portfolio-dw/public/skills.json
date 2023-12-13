@@ -1,0 +1,47 @@
+
+
+[
+    {
+      "id": 1,
+      "name": "React",
+      "description": "Javascript library for building user interfaces.",
+      "image": "/path/to/react-logo.png"
+    },
+
+    {
+        "id": 2,
+        "name": "HTML5",
+        "description": "Programming code for website development",
+        "image": "/path/to/html5-logo.png"
+      },
+  
+      {
+        "id": 3,
+        "name": "CSS3",
+        "description": "",
+        "image": "/path/to/css3-logo.png"
+      },
+
+      {
+        "id": 4,
+        "name": "JavaScript",
+        "description": "Scripting language for web development and programming",
+        "image": "/path/to/javascript-logo.png"
+      },
+  
+      {
+        "id": 5,
+        "name": "Node.js",
+        "description": "",
+        "image": "/path/to/node-logo.png"
+      },
+
+      {
+        "id": 6,
+        "name": "Express.js",
+        "description": "",
+        "image": "/path/to/express-logo.png"
+      }
+  
+  ]
+  

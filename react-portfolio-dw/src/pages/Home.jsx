@@ -1,4 +1,4 @@
-
+// PATH: 'src/pages/Home.jsx'
 
 
 function Home(props) {

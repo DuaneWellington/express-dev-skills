@@ -1,0 +1,23 @@
+/* PATH: 'styles/Skills.css' */
+
+.skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.skill-card {
+    background-color: #333; /* Grey background */
+    color: #fff; /* White text */
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.skill-image {
+    width: 100px; /* Set an appropriate width for your images */
+    height: auto;
+    margin-bottom: 0.5rem;
+}

@@ -1,4 +1,4 @@
-
+// PATH: 'src/pages/About.jsx'
 
 import { useState, useEffect } from "react";
 
